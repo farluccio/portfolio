@@ -194,6 +194,13 @@ section.success {
   background: #18BC9C;
   color: white;
 }
+div.panel {
+	background: #3e5871;
+}	
+div.panel-heading {
+	background: #233140;
+	color: white;
+}
 @media (max-width: 767px) {
   section {
     padding: 75px 0;
